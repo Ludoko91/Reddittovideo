@@ -1,0 +1,3 @@
+# ReddittoVideo
+
+install ImageMagick legacy!!!
